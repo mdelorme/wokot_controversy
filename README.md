@@ -3,7 +3,7 @@
 Vous avez entendu dire qu'il ne fallait plus utiliser Godot car le moteur était ~~~Woke~~~ ?
 Vous avez entendu dire que de nombreux forks du projet étaient apparus ?
 Vous avez entendu dire qu'il y avait eu une *shitstorm* sur Twitter ?
-Vous avez entendu dire que la communauté Godot a bannu de nombreux utilisateurs sur Twitter et Github ?
+Vous avez entendu dire que la communauté Godot a banni de nombreux utilisateurs sur Twitter et Github ?
 
 Et vous n'y comprenez rien ? 
 
