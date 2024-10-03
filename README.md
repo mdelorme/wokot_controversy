@@ -33,7 +33,7 @@ Suite à ces agressions, la modération du compte décide de bannir de très nom
 
 Les harceleurs décident de changer de plateforme et passent à l'action dans les issues sur le [github officiel](https://github.com/godotengine/godot) [github est la plateforme qui héberge le code open source du moteur, les issues sont une sorte de forum permettant de faire remonter les problèmes, bugs, suggestions sur le moteur].
 
-Juan Liniestki lui même (le créateur de Godot) est pris à parti par de nombreux utilisateurs sur les réseaux sociaux, lui reprochant de ne pas savoir "tenir ses modérateurs". 
+Juan Liniestky lui même (le créateur de Godot) est pris à parti par de nombreux utilisateurs sur les réseaux sociaux, lui reprochant de ne pas savoir "tenir ses modérateurs". 
 
 A la suite de cet évènement, de nombreux utilisateurs "frustrés" décident de faire leur propre version du moteur en reprenant la base de code (ce qu'ils peuvent tout à fait faire, c'est le principe même de l'Open Source).
 
